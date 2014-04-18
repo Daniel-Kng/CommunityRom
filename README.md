@@ -1,15 +1,5 @@
-CommunityRom
-============
+#DANKE!
 
-#Deutsch: 
+Danke dass du die Beta 2 Gedownloadet hast.
+Updates werden in den nächsten 48h Freigeschaltet.
 
-Es sind keine Updates für Apps dieser Rom Version verfügbar.
-
-Versuche es später erneut :)
-
-
-#English:
-
-For this Rom Version are no App Updates available.
-
-Please try again Later :)
