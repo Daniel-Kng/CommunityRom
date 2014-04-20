@@ -1,11 +1,12 @@
-#DANKE!
+#Update!
 
-Danke dass du die Beta 2 Gedownloadet hast.
-Updates werden in den nächsten 48h Freigeschaltet.
+Die Beta 3 wird gegen 19:30 an alle Tester gesendet!
+Für mehrere Infos, schaut hier, ich Aktualisiere ab jetzt! :)
 
 
 
-#Thanks!
+#Update!
 
-Thank you for Downloading this Rom!
-Updates are Available in 48 hours!
+The Beta 3 will be send on 19:30 to all Testers!
+
+For more Informations look here :)
